@@ -1,7 +1,7 @@
 public class Main {
   public static void main(String[] args) {
-    int x = 1;
-    int y = 2;
+    int x = 6;
+    int y = 8;
 
     System.out.println("Before swapping: x = " + x + " y = " + y);
 
